@@ -1,8 +1,10 @@
 
-# sublime
+# sublime 
+
 
 in 2018.9.29-----by axianga
 -------------------------
+
 
 **python**  --begin: 2018.9
 
@@ -14,5 +16,8 @@ in 2018.9.29-----by axianga
 
 **deep learning**
 
+
+your worst nightmare
 ------------------------
- # your worst nightmare
+
+ 
