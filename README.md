@@ -1,23 +1,23 @@
 
-# sublime 
+# Sublime 
 
 
-in 2018.9.29-----by axianga
+In 2018.9.29-----By axianga
 -------------------------
 
 
-**python**  --begin: 2018.9
+**Python**  --begin: 2018.9
 
-**spider**  --begin: 2018.10                     
+**Spider**  --begin: 2018.10                     
 
-**data mining**
+**Data Mining**
 
-**machine Learning**
+**Machine Learning**
 
-**deep learning**
+**Deep Learning**
 
 
-your worst nightmare
+Your Worst Nightmare
 ------------------------
 
  
